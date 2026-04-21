@@ -1,0 +1,5 @@
+.env
+.acmoj_token
+workspace/submission_ids.log
+*.ppm
+*.pgm
